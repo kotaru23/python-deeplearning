@@ -1,1 +1,3 @@
-# python-gpu
+# Python for Deep Learning with CUDA
+
+
