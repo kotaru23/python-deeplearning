@@ -24,6 +24,8 @@ RUN pip3 --no-cache-dir install --upgrade pip && \
         line_profiler \
         memory_profiler \
         xgboost \
-        optuna
+        optuna \
+        click
+
 
 CMD ["python3"]
